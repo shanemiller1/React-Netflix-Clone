@@ -1,3 +1,4 @@
+
 # Live Build
 This personal project was built using React and Javascript, the reason for making this project was to further my understanding of deploying an app and further learning.
 
@@ -8,6 +9,10 @@ This React app implements an IMDB API to pull movie data and fetches certain dat
 This is a dummy build so functionality is limited however, throught this project this focused on developing CSS hacks and transitions to make everything look good in the end. 
 
 -enjoy
+
+https://im6.ezgif.com/tmp/ezgif-6-ba09edb8f0d5.gif
+
+
 
 # Getting Started with Create React App
 
