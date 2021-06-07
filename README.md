@@ -1,3 +1,14 @@
+# Live Build
+This personal project was built using React and Javascript, the reason for making this project was to further my understanding of deploying an app and further learning.
+
+This app was deployed on Firebase 
+Heres the Live Build - https://netflix-clone-876bb.web.app/
+
+This React app implements an IMDB API to pull movie data and fetches certain data by category with async wait functions.
+This is a dummy build so functionality is limited however, throught this project this focused on developing CSS hacks and transitions to make everything look good in the end. 
+
+-enjoy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
