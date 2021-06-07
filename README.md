@@ -6,7 +6,7 @@ This app was deployed on Firebase
 Heres the Live Build - https://netflix-clone-876bb.web.app/
 
 This React app implements an IMDB API to pull movie data and fetches certain data by category with async wait functions.
-This is a dummy build so functionality is limited however, throught this project this focused on developing CSS hacks and transitions to make everything look good in the end. 
+This is a dummy build so functionality is limited however, throughout this project I focused on developing CSS hacks and transitions to make everything look good in the end. I learned this following a React beginners course on [youtube](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) 
 
 -enjoy
 ![](https://im6.ezgif.com/tmp/ezgif-6-ba09edb8f0d5.gif)
