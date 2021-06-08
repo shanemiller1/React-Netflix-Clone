@@ -10,7 +10,7 @@ This React app implements an IMDB API to pull movie data and fetches certain dat
 This is a dummy build so functionality is limited however, throughout this project I focused on developing CSS hacks and transitions to make everything look good in the end. I learned this following a React beginners course on [youtube](https://www.youtube.com/watch?v=-cMqr9HpZ-Y_blank)
 -enjoy
 
-![](file:///Users/shanemiller/Downloads/Hnet-image.gif)
+![](https://media.giphy.com/media/J5SK6JBZfwK0jjBznw/giphy.gif)
 
 
 
